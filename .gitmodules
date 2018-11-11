@@ -1,0 +1,3 @@
+[submodule "debsManualScripts"]
+	path = debsManualScripts
+	url = https://github.com/dbaskin1/debsManualScripts.git
